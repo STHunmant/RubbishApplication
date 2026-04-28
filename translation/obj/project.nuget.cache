@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mR2vTzgGIjI=",
+  "success": true,
+  "projectFilePath": "d:\\project\\Application lang\\app1\\App1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ST_Hunmant\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\ST_Hunmant\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512",
+    "C:\\Users\\ST_Hunmant\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512"
+  ],
+  "logs": []
+}
